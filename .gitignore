@@ -3,6 +3,15 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python virtual environment
+.venv/
+
 # C extensions
 *.so
 
